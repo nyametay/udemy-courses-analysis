@@ -34,7 +34,7 @@ The notebook answers several key business and platform-related questions:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/udemy-courses-analysis.git
+git clone https://github.com/nyametay/udemy-courses-analysis.git
 cd udemy-courses-analysis
 ```
 
